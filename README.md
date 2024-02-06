@@ -48,9 +48,9 @@ These are a list of tools i have used in my time so far
 <div>
 <img src="https://img.shields.io/badge/-Hack%20The%20Box%20Certified%20Bug%20Bounty%20Hunter-grey?style=for-the-badge&logo=hackthebox&logoColor=green" alt="Hack The Box Certified Bug Bounty Hunter" />
 <img src="https://img.shields.io/badge/-Udemy%20python%20Course-white?style=for-the-badge&logo=udemy&logoColor=purple" alt="Udemy Course" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+-  <a href="https://github.com/O5council1/Home-lab/tree/main">Home Lab</a>
